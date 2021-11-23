@@ -42,6 +42,11 @@ include $(LOCAL_PATH)/configs/properties/vendor_logging.mk
 PRODUCT_PACKAGES += \
     com.dsi.ant@1.0.vendor
 
+# Dex/ART optimization
+PRODUCT_ART_TARGET_INCLUDE_DEBUG_BUILD := false
+PRODUCT_DEX_PREOPT_DEFAULT_COMPILER_FILTER := everything
+USE_DEX2OAT_DEBUG := false
+
 # Audio
 PRODUCT_PACKAGES += \
     android.hardware.audio@6.0-impl \
