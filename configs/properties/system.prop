@@ -10,6 +10,9 @@ persist.sys.fuse.passthrough.enable=true
 # LMK
 ro.config.low_ram=false
 
+# HWUI
+debug.hwui.skia_atrace_enabled=false
+
 # Media
 media.aac_51_output_enabled=true
 media.stagefright.enable-aac=true
