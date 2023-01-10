@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e2efe041_18d03fb3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000469
+      },
+      "writtenOn": "2023-01-10T13:10:23Z",
+      "side": 1,
+      "message": "What exactly does this do, and wouldn\u0027t it be better to have this in vendor/aospa ?",
+      "revId": "852423476739164a3bd3705abd32432f13e1f246",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
