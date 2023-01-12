@@ -16,6 +16,23 @@
       "message": "What exactly does this do, and wouldn\u0027t it be better to have this in vendor/aospa ?",
       "revId": "852423476739164a3bd3705abd32432f13e1f246",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "947aa28f_ceba53fa",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000551
+      },
+      "writtenOn": "2023-01-12T03:07:18Z",
+      "side": 1,
+      "message": "https://android.googlesource.com/platform/system/sepolicy/+/8633462d85766012f08ba40cb481037db0b7ae28\n\nLooks like it is a nice to have - but at second glance I do not think this would be required",
+      "revId": "852423476739164a3bd3705abd32432f13e1f246",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
