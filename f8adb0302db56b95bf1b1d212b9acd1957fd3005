@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6a99e4ea_682f24bc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000551
+      },
+      "writtenOn": "2023-03-12T12:41:52Z",
+      "side": 1,
+      "message": "my bad, it\u0027s disabled in frameworks/base",
+      "revId": "f8adb0302db56b95bf1b1d212b9acd1957fd3005",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
