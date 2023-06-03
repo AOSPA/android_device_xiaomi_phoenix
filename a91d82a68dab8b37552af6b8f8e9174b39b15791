@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b2598546_cc0f10e8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2023-06-03T13:40:47Z",
+      "side": 1,
+      "message": "A: this seems to be false in platform already\nB: if it wasn\u0027t, we would want this globally.",
+      "revId": "a91d82a68dab8b37552af6b8f8e9174b39b15791",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
