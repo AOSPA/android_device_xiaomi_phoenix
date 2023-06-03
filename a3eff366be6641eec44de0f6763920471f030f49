@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7f8f251f_e39e89d2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2023-06-03T13:41:43Z",
+      "side": 1,
+      "message": "this still exists in clo.  you can kill it if you want to, but it\u0027s not obsolete here",
+      "revId": "a3eff366be6641eec44de0f6763920471f030f49",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
