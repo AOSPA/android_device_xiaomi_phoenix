@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "406d7f8e_697a4ef8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2023-06-03T13:45:12Z",
+      "side": 1,
+      "message": "only impacts userdebug, do we care?\nhttps://android.googlesource.com/platform/frameworks/native/+/2b019110b561acf6ee3b2ed03e9fff0b42a689db",
+      "revId": "9d22ad43227e65dfeef795c75cc7c6a8b4d58566",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
