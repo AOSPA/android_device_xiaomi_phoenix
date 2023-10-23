@@ -200,6 +200,8 @@ PRODUCT_PACKAGES += \
     android.hardware.light-service.xiaomi
 
 # Media
+TARGET_SUPPORTS_OMX_SERVICE := true
+
 PRODUCT_PACKAGES += \
     libOmxAacEnc \
     libOmxAmrEnc \
