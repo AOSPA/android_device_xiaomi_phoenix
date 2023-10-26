@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7419fafa_6965bc59",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000551
+      },
+      "writtenOn": "2023-10-26T19:15:53Z",
+      "side": 1,
+      "message": "gotta fix fragment parsing logic",
+      "revId": "9ed2234e90a7cdb594004653632cd82beca27525",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
