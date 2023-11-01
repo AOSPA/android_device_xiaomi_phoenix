@@ -52,6 +52,23 @@
       "parentUuid": "741bdf85_d3ec2c61",
       "revId": "9ed2234e90a7cdb594004653632cd82beca27525",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6533278c_c42dc5bc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000551
+      },
+      "writtenOn": "2023-11-01T11:04:54Z",
+      "side": 1,
+      "message": "for this, gotta actually rewrite the logic for merging the defconfigs. CAF does merging debugfs first; which is what i\u0027ll look at first.",
+      "revId": "9ed2234e90a7cdb594004653632cd82beca27525",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
